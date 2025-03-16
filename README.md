@@ -60,7 +60,7 @@
     ```
 2. ボットを起動します:
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ## ライセンス
